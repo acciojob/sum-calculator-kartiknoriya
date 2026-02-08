@@ -1,10 +1,12 @@
 import React from "react";
-import SumCalculator from "./sumCalculator";
+import SumCalculator from "./SumCalculator";
+
+
 
 const App = () => {
   return (
     <div>
-      <SumCalculator />
+        <SumCalculator/>
     </div>
   );
 };
